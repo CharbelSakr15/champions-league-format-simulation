@@ -1,6 +1,3 @@
-# champions-league-format-simulation
-Statistical simulation of the old UEFA Champions League group stage format using Poisson regression and Monte Carlo methods · Python
-
 # Champions League Format Simulation (2023/24)
 
 A statistical simulation project comparing the **old UEFA Champions League group stage format** against the **new league phase format** introduced in 2024/25. Built with Python using Poisson regression and Monte Carlo simulation.
